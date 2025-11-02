@@ -76,8 +76,8 @@ The app will automatically open in your browser at:
 | **Holding Horizon** | Days to hold position            | 5                           |
 | **Fixed Lot**       | Units per trade                  | 10                          |
 | **Threshold**       | Probability cutoff               | 0.6                         |
-| **Enable Shorts**   | Allow short trades               | ✅                           |
-| **Use Filters**     | Apply EMA or SMC context filters | ✅                           |
+| **Enable Shorts**   | Allow short trades               | Yes                          |
+| **Use Filters**     | Apply EMA or SMC context filters | Yes                          |
 | **Initial Capital** | Starting capital                 | 100000                      |
 
 Then click **Run**.
